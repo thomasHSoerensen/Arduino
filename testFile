@@ -1,1 +1,3 @@
 /*** this is a test ***/
+int val = 0;
+int test = 1;
